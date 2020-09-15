@@ -8,6 +8,13 @@
             ]
         },
         {
+            "name": "Sports TV",
+            "logo": "sport.png",
+            "url": [
+                "https://kcdn.reystream.tv/fadostream34/chunklist.m3u8"
+            ]
+        },
+        {
             "name": "BBC World News",
             "logo": "bbc_world_news.png",
             "url": [
