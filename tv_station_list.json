@@ -1,17 +1,101 @@
 {
     "stations": [
         {
-            "name": "BBC News",
-            "logo": "bbc_news.png",
+            "name": "KBS1",
+            "logo": "kbs.png",
             "url": [
-                "http://51.52.156.22:8888/http/004"
+                "http://1tv.gscdn.kbs.co.kr/1tv-m/1tv-m_hd.m3u8?Expires=1600491808&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LW0vMXR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMDQ5MTgwOH19fV19&Signature=NuilMfL62Xlu7batGcF-g64SEQMbFGCv7bXY9zskONQxA1gTmxOK06Gd6kKeDEqpdt2iwYRyReUckhHx11eivOMumo26zI82VSBVN~DZf1AbAOVAOP~zaXTPZGsfSF~CfxwA6-FWai~W-kLk9zsN6uRJYhALL1hzUWb-MnZ5SQhCzHwZOxOUAJYuxp7cPZIRsKdRwwinXs9CkE30MljK7tnVz487Iw6rWIFlWIZgBgaGjbKcdTVzCHcfW1xwUE3KrQRTpfaxYnpVRH-wDmcWHWFDtfDAOtSeA9bu7~8rWFuFWBR6bykA3l4dxPFl~vSUUamWtbjxrVg47OGSFfF6Ug__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
             ]
         },
         {
-            "name": "Sports TV",
-            "logo": "sport.png",
+            "name": "KBS2",
+            "logo": "kbs2.png",
+            "url": [
+                "http://2tv.gscdn.kbs.co.kr/2tv-m/2tv-m_hd.m3u8?Expires=1600428576&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzJ0di5nc2Nkbi5rYnMuY28ua3IvMnR2LW0vMnR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMDQyODU3Nn19fV19&Signature=TSKGzFDjCtMo7fAzs~jYBt21siUywzoLzYoODiiHo7FqtQgH6COwMhGzweyhZsdnZvYPkAjs0HqQKdWUdMggT7f1wIhxYyjG93zrSxhz1jGq~9xXSuHziibj13rTSieJu5T3qNdIyGt6xW73aFQXF-SszMbR~5EeNyi8rBLCV~uceRGIBTsjwm1Z2bvQokIZFSn3GhSq3CDqAjTqGeG9ql~13Mc5Wls7EDX6balc1dwJnZYFRbWLixBsWtGxlM91h4PHkR~V0xWz7q4MJ3OfSqiTcAnMYZEj-KgeKZi59rDPQkdq8u~NR1hEV-brJvGs6zWspogU8RjER1IRosHPcA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+            ]
+        },
+        {
+            "name": "SBS",
+            "logo": "sbs.png",
+            "url": [
+                "http://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MDAzMTkzNjAsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiJkZDIwYWM3ZS0zZTQ1LTRiNjEtOGM0NS1hNTI1MjE2ODFlYzAifQ.6FcMirmpajAgPQOsut0-n1uyDJNYAygdu8xq10pFaTQ&solsessionid=522e5ae23517babb2c1c49ec6c837cfe"
+            ]
+        },
+        {
+            "name": "MBC",
+            "logo": "mbc.png",
             "url": [
                 "https://kcdn.reystream.tv/fadostream34/chunklist.m3u8"
+            ]
+        },
+        {
+            "name": "JTBC",
+            "logo": "jtbc.png",
+            "url": [
+                "http://jtbc-mcdn.tving.com/jtbc/live1500.smil/chunklist_b1628000.m3u8"
+            ]
+        },
+        {
+            "name": "TV 조선",
+            "logo": "tvchosun.png",
+            "url": [
+                "http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist_w1041528269.m3u8"
+            ]
+        },
+        {
+            "name": "MBN",
+            "logo": "mbn.png",
+            "url": [
+                "http://we.media.everyon.tv/chgrp046a/live_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dlLm1lZGlhLmV2ZXJ5b24udHYvY2hncnAwNDZhLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MDAzMjQ0ODR9fX1dfQ__&Signature=PsvSpigKhXA-O7dbhUZuOfKaZQ87QWi03Wdf4mJDOT~UUuGvlcY0VS4~IzIv8UaYYNKqhy9ysf7b5GwwpDNq2noQG9ELgg0sn47sxm036TnMXLXxE4ShdafFD2HHgkLUPq~JjUphyznzhosYAzZ8sgFmS32BTi5PcqNkdKfSRM8OvcDLGlJ5JN2AvNE56PuVFHa2c2Z1uX~AZ7NbmSTWYZ5rRHUAsLePUFaJA~l3-oyKxkqSUn8kflCCfikN4R8wWPtRVsYJjgVlyOiXOjAacox1RFwlLRnciuebcudtAKjI4mmp-wrcCgiK2qiifk81em6fEj2CkTObdLBudrSTDg__&Key-Pair-Id=APKAJDDOC33A6I654PKA"
+            ]
+        },
+        {
+            "name": "tvN",
+            "logo": "tvn.png",
+            "url": [
+                "http://tvn-mcdn.tving.com/tvn/live1500.smil/chunklist_b1628000.m3u8"
+            ]
+        },
+        {
+            "name": "채널A",
+            "logo": "channela.png",
+            "url": [
+                "http://fhs8073.bd-61.ktcdn.co.kr/chalivepc/_definst_/atv2/chunklist_w40791631.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDAzMjAwNjksInBhdGgiOiIvY2hhbGl2ZXBjL19kZWZpbnN0Xy9hdHYyIn0.kIYFOti_6X0cPZoDYewbolYWshhGUYkqCVvKqM3NmGM"
+            ]
+        },
+        {
+            "name": "YTN",
+            "logo": "ytn.png",
+            "url": [
+                "http://we.media.everyon.tv/chgrp013b/live_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dlLm1lZGlhLmV2ZXJ5b24udHYvY2hncnAwMTNiLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MDAzMjQzNTl9fX1dfQ__&Signature=izJyAuQ2EyJ3YQ31Xj5ExO9~dGxNSzOKrz78HhQBolt4wwYnP-JVJHb6ml9inEmTlyL~j8sG8cr8K2hAP3MbSy1H1gARt0QP3nnPfk-a3ethx3CaZDWOF8-e0wQdowYw4PkkJ7lqV3MYLgRaWQPIkXabAe8vid~v1LdS4VUjKgpAn32a6PXPJnmCcVFiTnWx~BEinAAlPARFEKDYaXHaiH70uEUCl9CNrUhsTKQ049p6vTyUpyq0DZMypi1N0pvqnl5XOgKZg2nqT-jjESl1Q8IkJMapbH7YseZntK6-lQCi3U6k2FIb4eb8sg4tqMhMMz8i5noHKNrqUezp7mGBxw__&Key-Pair-Id=APKAJDDOC33A6I654PKA"
+            ]
+        },
+        {
+            "name": "연합뉴스TV",
+            "logo": "yonhapnews.png",
+            "url": [
+                "http://we.media.everyon.tv/chgrp024a/live_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dlLm1lZGlhLmV2ZXJ5b24udHYvY2hncnAwMjRhLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MDAzMjQyNjN9fX1dfQ__&Signature=cKwZzLzpFp48PIp~R9S~BPhJbuqtRcTtF35wEzKDhBuDGv~DVKjD7SAy9P34EYEB04w7A-jCS2MIS0f5vR~Acs2G2ctQ87F4u0fyGPbxnoJjNHHiZ6MQ5aDyWQvtrgqnVVb1LV5NCBPg1ccuNa-ymaf6YmnEQIB-p6S24q~Gjngi54ngREr0Aut36UN9OMIoLKLotb~o0UKp2hqn6q42DOBB4duic-WMgHyGevdgOsucQ7-oVanmz8C21BRYJeNH17Ru6D1het4dxK~UQj3BTJ3X-uUtbbB6bGO98hPEokbvvgzcLR4YNsnFWHnsLSwznAUI6u13bssxj~RI6FZFpQ__&Key-Pair-Id=APKAJDDOC33A6I654PKA"
+            ]
+        },
+        {
+            "name": "EBS1",
+            "logo": "ebs1.png",
+            "url": [
+                "https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1775631204.m3u8"
+            ]
+        },
+        {
+            "name": "EBS2",
+            "logo": "ebs2.png",
+            "url": [
+                "http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/chunklist_w1916835026.m3u8"
+            ]
+        },
+        {
+            "name": "낚시채널",
+            "logo": "ftv.png",
+            "url": [
+                "http://we.media.everyon.tv/chgrp027a/live_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dlLm1lZGlhLmV2ZXJ5b24udHYvY2hncnAwMjdhLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MDAzMjQ2NzZ9fX1dfQ__&Signature=Zdp8j3GUBnuRUbVkZGtyuEqykwBeQbhuxil1Je2Yj-ROhFEJE3TVFUjMiCB3vE8jSk1PtQiHnfe6FJI4lG8A5eHNUhXr3dmFS1s04OJNh0sgXJ05JM64jJwpT0SNm3okWMEu6vYjZ0o8G9bquwkkNAZC7CqaLb5ZQxnc1uLcobhveaQXQ55z6Eg-Pmay2-ilNR16704pS9J9tfI0WnY~by5xD10fHJAkD3EKrwp~AcKxtkSaQkx7HTotpwfV0RSuI1LI2Oyf1xPS0pRP-wQUquk2Q88c6bD2vcJLWuKKjh-7G7CTnKqYwenWIqINMzsDCN4uaMDv0dEMF7pGNsCikA__&Key-Pair-Id=APKAJDDOC33A6I654PKA"
             ]
         },
         {
@@ -34,9 +118,6 @@
             "name": "CNN",
             "logo": "cnn.png",
             "url": [
-                "http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11492.m3u8",
-                "http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/7232.m3u8",
-                "http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/881.m3u8",
                 "http://185.232.53.5:2086/live/wickeduk/etqyhww45e/16216.m3u8",
                 "http://185.232.53.5:2086/live/wickeduk/etqyhww45e/64140.m3u8",
                 "http://185.232.53.5:2086/live/wickeduk/etqyhww45e/88702.m3u8"
