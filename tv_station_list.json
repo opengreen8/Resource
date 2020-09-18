@@ -53,7 +53,7 @@
             "name": "tvN",
             "logo": "tvn.png",
             "url": [
-                "http://tvn-mcdn.tving.com/tvn/live1500.smil/chunklist_b1628000.m3u8"
+                "http://1.214.67.100/vod/68201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
             ]
         },
         {
