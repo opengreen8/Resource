@@ -18,7 +18,7 @@
             "name": "SBS",
             "logo": "sbs.png",
             "url": [
-                "http://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MDAzMTkzNjAsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiJkZDIwYWM3ZS0zZTQ1LTRiNjEtOGM0NS1hNTI1MjE2ODFlYzAifQ.6FcMirmpajAgPQOsut0-n1uyDJNYAygdu8xq10pFaTQ&solsessionid=522e5ae23517babb2c1c49ec6c837cfe"
+                "https://live.cdn.wavve.com/hls/S01/KR/1/2000/live.m3u8?seek=0"
             ]
         },
         {
