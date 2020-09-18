@@ -18,7 +18,7 @@
             "name": "SBS",
             "logo": "sbs.png",
             "url": [
-                "https://live.cdn.wavve.com/hls/S01/KR/1/2000/live.m3u8?seek=0"
+                "http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8"
             ]
         },
         {
