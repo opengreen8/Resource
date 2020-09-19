@@ -92,6 +92,13 @@
             ]
         },
         {
+            "name": "SPOTV",
+            "logo": "spotv.png",
+            "url": [
+                "http://1.214.67.100/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+            ]
+        },
+        {
             "name": "낚시채널",
             "logo": "ftv.png",
             "url": [
@@ -232,8 +239,7 @@
         {
             "name": "CGTN",
             "logo": "cgtn.png",
-            "url": [
-                "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
+            "url": [           
                 "http://live.cgtn.com/1000/prog_index.m3u8",
                 "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
                 "http://live.cgtn.com/500/prog_index.m3u8",
