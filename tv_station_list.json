@@ -67,14 +67,14 @@
             "name": "YTN",
             "logo": "ytn.png",
             "url": [
-                "http://we.media.everyon.tv/chgrp013b/live_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dlLm1lZGlhLmV2ZXJ5b24udHYvY2hncnAwMTNiLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MDAzMjQzNTl9fX1dfQ__&Signature=izJyAuQ2EyJ3YQ31Xj5ExO9~dGxNSzOKrz78HhQBolt4wwYnP-JVJHb6ml9inEmTlyL~j8sG8cr8K2hAP3MbSy1H1gARt0QP3nnPfk-a3ethx3CaZDWOF8-e0wQdowYw4PkkJ7lqV3MYLgRaWQPIkXabAe8vid~v1LdS4VUjKgpAn32a6PXPJnmCcVFiTnWx~BEinAAlPARFEKDYaXHaiH70uEUCl9CNrUhsTKQ049p6vTyUpyq0DZMypi1N0pvqnl5XOgKZg2nqT-jjESl1Q8IkJMapbH7YseZntK6-lQCi3U6k2FIb4eb8sg4tqMhMMz8i5noHKNrqUezp7mGBxw__&Key-Pair-Id=APKAJDDOC33A6I654PKA"
+                "http://1.214.67.100/vod/69802.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
             ]
         },
         {
             "name": "연합뉴스TV",
             "logo": "yonhapnews.png",
             "url": [
-                "http://we.media.everyon.tv/chgrp024a/live_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dlLm1lZGlhLmV2ZXJ5b24udHYvY2hncnAwMjRhLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MDAzMjQyNjN9fX1dfQ__&Signature=cKwZzLzpFp48PIp~R9S~BPhJbuqtRcTtF35wEzKDhBuDGv~DVKjD7SAy9P34EYEB04w7A-jCS2MIS0f5vR~Acs2G2ctQ87F4u0fyGPbxnoJjNHHiZ6MQ5aDyWQvtrgqnVVb1LV5NCBPg1ccuNa-ymaf6YmnEQIB-p6S24q~Gjngi54ngREr0Aut36UN9OMIoLKLotb~o0UKp2hqn6q42DOBB4duic-WMgHyGevdgOsucQ7-oVanmz8C21BRYJeNH17Ru6D1het4dxK~UQj3BTJ3X-uUtbbB6bGO98hPEokbvvgzcLR4YNsnFWHnsLSwznAUI6u13bssxj~RI6FZFpQ__&Key-Pair-Id=APKAJDDOC33A6I654PKA"
+                "http://1.214.67.38/vod/73401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
             ]
         },
         {
@@ -95,7 +95,7 @@
             "name": "낚시채널",
             "logo": "ftv.png",
             "url": [
-                "http://we.media.everyon.tv/chgrp027a/live_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dlLm1lZGlhLmV2ZXJ5b24udHYvY2hncnAwMjdhLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MDAzMjQ2NzZ9fX1dfQ__&Signature=Zdp8j3GUBnuRUbVkZGtyuEqykwBeQbhuxil1Je2Yj-ROhFEJE3TVFUjMiCB3vE8jSk1PtQiHnfe6FJI4lG8A5eHNUhXr3dmFS1s04OJNh0sgXJ05JM64jJwpT0SNm3okWMEu6vYjZ0o8G9bquwkkNAZC7CqaLb5ZQxnc1uLcobhveaQXQ55z6Eg-Pmay2-ilNR16704pS9J9tfI0WnY~by5xD10fHJAkD3EKrwp~AcKxtkSaQkx7HTotpwfV0RSuI1LI2Oyf1xPS0pRP-wQUquk2Q88c6bD2vcJLWuKKjh-7G7CTnKqYwenWIqINMzsDCN4uaMDv0dEMF7pGNsCikA__&Key-Pair-Id=APKAJDDOC33A6I654PKA"
+                "http://1.214.67.100/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
             ]
         },
         {
