@@ -4,14 +4,14 @@
             "name": "KBS1",
             "logo": "kbs.png",
             "url": [
-                "http://1tv.gscdn.kbs.co.kr/1tv-m/1tv-m_hd.m3u8?Expires=1600593855&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LW0vMXR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMDU5Mzg1NX19fV19&Signature=kjofdvqPr5-~y2tv6f1nTgYmG3tc-WDSgJTtj-HoUF9xwER4uFHO4YKUViC8smb5jQMkWikDU1TDZ8UEePESq43nJiA9HrhQE9CtdtaF~IOuRcq6Jon7TkpRsc7ACl6~cXWSsb0pivv4llaiUf19o-U3JGxEWhQL~pbmIbVmGEtLh3gOxkEuMySq0CBvzELxvJySNWQl3NnC3lCxDdxufyrpmu8z15PvTyQ-cNf0tx4G4-9FNDMSCKvubfnrSzC55QEkUxLK2wDDw-JQDNjC~3HIXZlafPkoUhlzJ4WTtJWUq16ltWB57B4JUl6PIaCzuFEffLpgI0-L3QYWcZGoag__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+                "http://1tv.gscdn.kbs.co.kr/1tv-m/1tv-m_hd.m3u8?Expires=1600834667&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LW0vMXR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMDgzNDY2N319fV19&Signature=Jx9YnOYiixNXe4UnIo1YnAzZjD6FSmnU6WS~ils948yri212D4S18Bxp~H2Ijn5n2tCAsXrw~ThLqgD7r9cljTUdVLfcnQ1aCS7ZunwR~a4zJscsuiISImzauXLUiIZYmeaIW-2PDlWJcof7GtjiHSr~Prg6gqaLVZp9q24pSI-oGWfNhIrE31WpyB0EzeIDcvLK9KLArdHyguDzoSJeG3L5WEr3L4ZnSI9aqpR2JEaNOdEJmbP3V3feJuB5Zfo2JVAU8e3zvQLymgpjgGYo~dZkF~LNbC5z6rI-LGEgdiZrCLCAmA2YTeg-fNvsb6vIr0dKquromWi7BBIpZD2Cpg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
             ]
         },
         {
             "name": "KBS2",
             "logo": "kbs2.png",
             "url": [
-                "http://2tv.gscdn.kbs.co.kr/2tv-m/2tv-m_hd.m3u8?Expires=1600608587&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzJ0di5nc2Nkbi5rYnMuY28ua3IvMnR2LW0vMnR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMDYwODU4N319fV19&Signature=i7v2qR5vt741XWU9tQ1rWEIPvZH2TCmD9oazjpZjotwG6WYXeio~7E3y0Q6bmPNhsFDP213uDGOIrU2i4ff9NPE8ZKD4Mo9NZCM52T1qu9Mw2A5IXvYxnT~T~XbyZVsTgjwt5hRQPT21e6WiFWxStnQ8Au~gCCLVgIwYSkp5f2FaHZoaTWE7GtIGTBHYwds9~4eBMidK8sakCx~pcmDbk728nSUY-jP~Vbfeo8kvAK-DKJ~IB8Ean1Ple-dg8MMQy1Z3pk7OY8~sLHCAaFcILCaNVio0Kp-RX115Rptb6ox1qmurTsXUG4KNbnvWCGtgJAhOSdBo8If~mtE0PnFKPQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+                "http://2tv.gscdn.kbs.co.kr/2tv-m/2tv-m_hd.m3u8?Expires=1600834940&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzJ0di5nc2Nkbi5rYnMuY28ua3IvMnR2LW0vMnR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMDgzNDk0MH19fV19&Signature=iiO0UKo1RhdQZ7rtldRQc-K3-AJjrcmtpBf~tefW2FnUnqPIyltkfjeajOlfham~bIZ18g5v7nFs0cge-3RuWIKqM-J6ZcoZq9XwY6wQD4Bsp~XDRNMXun795vbUp0KEv7SkWQRH8zi7Aria8Ee-jZkzp3VbyIvHJYQVSvqzREscdno6wXFaCprWupJtg3da5aXyHDcq6yGN9JVcJWvjZLO0CM62BK2oBFzHpzIpF1MuwQDjYpltRsRWDgjFE3gX3PmEfZ919CwrvYMp2ChneOVec9spWSxIO93Ar2p6TeSIDChPyezgXA6n~1fGr1vRGwSwYRrzM~EVR4FiX16tfA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
             ]
         },
         {
