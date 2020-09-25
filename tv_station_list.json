@@ -4,7 +4,7 @@
             "name": "KBS1",
             "logo": "kbs.png",
             "url": [
-                "http://1tv.gscdn.kbs.co.kr/1tv-m/1tv-m_hd.m3u8?Expires=1600834667&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LW0vMXR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMDgzNDY2N319fV19&Signature=Jx9YnOYiixNXe4UnIo1YnAzZjD6FSmnU6WS~ils948yri212D4S18Bxp~H2Ijn5n2tCAsXrw~ThLqgD7r9cljTUdVLfcnQ1aCS7ZunwR~a4zJscsuiISImzauXLUiIZYmeaIW-2PDlWJcof7GtjiHSr~Prg6gqaLVZp9q24pSI-oGWfNhIrE31WpyB0EzeIDcvLK9KLArdHyguDzoSJeG3L5WEr3L4ZnSI9aqpR2JEaNOdEJmbP3V3feJuB5Zfo2JVAU8e3zvQLymgpjgGYo~dZkF~LNbC5z6rI-LGEgdiZrCLCAmA2YTeg-fNvsb6vIr0dKquromWi7BBIpZD2Cpg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+                "http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=11"
             ]
         },
         {
