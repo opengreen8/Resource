@@ -163,6 +163,29 @@
             ]
         },
         {
+            "name": "KBSN 스포츠",
+            "logo": "kbsnsports.png",
+            "url": [
+                "http://1.214.67.18/vod/04101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
+            "name": "SBS스포츠",
+            "logo": "sbssports.png",
+            "url": [
+                "http://1.214.67.100/vod/38102.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI",
+                "http://1.214.67.15/vod/38102.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
+            "name": "MBC스포츠",
+            "logo": "mbcsports.png",
+            "url": [
+                "http://1.214.67.18/vod/01101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI",
+                "http://211.170.95.18/vod/38201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
             "name": "JTBC2",
             "logo": "jtbc2.png",
             "url": [
@@ -171,10 +194,11 @@
             ]
         },
         {
-            "name": "JTBC3",
-            "logo": "jtbc3fox.png",
+            "name": "JTBC4",
+            "logo": "jtbc4.png",
             "url": [
-                "http://1.214.67.208/vod/79501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+                "http://1.214.67.100/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI",
+                "http://211.170.95.115/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
             ]
         },
         {
