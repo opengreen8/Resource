@@ -98,6 +98,13 @@
             ]
         },
         {
+            "name": "EBS키즈",
+            "logo": "emskids.png",
+            "url": [
+                "http://ebsonair.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/Playlist.m3u8"
+            ]
+        },
+        {
             "name": "SPOTV",
             "logo": "spotv.png",
             "url": [
@@ -135,6 +142,42 @@
             ]
         },
         {
+            "name": "KBS N",
+            "logo": "kbsn.png",
+            "url": [
+                "http://1.214.67.17/vod/38902.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
+            "name": "KBS Joy",
+            "logo": "kbsjoy.png",
+            "url": [
+                "http://live.yingtaotvapp.com/KBStv/index.m3u8"
+            ]
+        },
+        {
+            "name": "KBS드라마",
+            "logo": "kbsdrama.png",
+            "url": [
+                "http://live.yingtaotvapp.com/KBSk/index.m3u8"
+            ]
+        },
+        {
+            "name": "JTBC2",
+            "logo": "jtbc2.png",
+            "url": [
+                "http://1.214.67.20/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI",
+                "http://1.214.67.208/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
+            "name": "JTBC3",
+            "logo": "jtbc3fox.png",
+            "url": [
+                "http://1.214.67.208/vod/79501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+            ]
+        },
+        {
             "name": "CBS TV",
             "logo": "cbstv.png",
             "url": [
@@ -145,7 +188,7 @@
             "name": "K-Star",
             "logo": "kstar.png",
             "url": [
-                "http://211.170.95.16/vod/66201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+                "http://211.170.95.21/vod/66201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
             ]
         },
         {
@@ -170,6 +213,13 @@
             ]
         },
         {
+            "name": "OLive",
+            "logo": "olive.png",
+            "url": [
+                "http://1.214.67.38/vod/69602.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
             "name": "Xtvn",
             "logo": "xtvn.png",
             "url": [
@@ -184,10 +234,38 @@
             ]
         },
         {
+            "name": "애니플러스",
+            "logo": "aniplus.png",
+            "url": [
+                "http://1.214.67.15/vod/69902.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
+            "name": "애니맥스",
+            "logo": "animax.png",
+            "url": [
+                "http://1.214.67.24/vod/70302.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
             "name": "낚시채널",
             "logo": "ftv.png",
             "url": [
                 "http://1.214.67.100/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+            ]
+        },
+        {
+            "name": "브레인TV",
+            "logo": "brantv.png",
+            "url": [
+                "http://211.170.95.16/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
+            "name": "바둑",
+            "logo": "kbaduk.png",
+            "url": [
+                "http://1.214.67.24/vod/68301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
             ]
         },
         {
