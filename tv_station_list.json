@@ -20,7 +20,11 @@
             "name": "SBS",
             "logo": "sbs.png",
             "url": [
-                "http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8"
+                "http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8",
+                "http://221.157.125.239:1935/live/psike/playlist.m3u8",
+                "http://59.25.202.82:1935/live/UBCstream/playlist.m3u8",
+                "http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8",
+                "https://5ee9be10640ac.streamlock.net/live/cjbtv/playlist.m3u8"
             ]
         },
         {
@@ -98,6 +102,85 @@
             "logo": "spotv.png",
             "url": [
                 "http://1.214.67.100/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+            ]
+        },
+        {
+            "name": "spotv2",
+            "logo": "spotv2.png",
+            "url": [
+                "http://1.214.67.32/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI",
+                "http://1.214.67.100/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
+            "name": "spotv+",
+            "logo": "spotvplus.png",
+            "url": [
+                "http://1.214.67.40/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI"
+            ]
+        },
+        {
+            "name": "프리미엄",
+            "logo": "premium.png",
+            "url": [
+                "http://1.214.67.30/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
+            "name": "웰메이드",
+            "logo": "wellmade.png",
+            "url": [
+                "http://211.170.95.45/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI",
+                "http://211.170.95.16/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
+            "name": "CBS TV",
+            "logo": "cbstv.png",
+            "url": [
+                "http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8"
+            ]
+        },
+        {
+            "name": "K-Star",
+            "logo": "kstar.png",
+            "url": [
+                "http://211.170.95.16/vod/66201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
+            "name": "KNN",
+            "logo": "knn.png",
+            "url": [
+                "http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8"
+            ]
+        },
+        {
+            "name": "M-NET",
+            "logo": "mnet.png",
+            "url": [
+                "http://211.170.95.20/vod/68701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
+            "name": "ON Style",
+            "logo": "onstyle.png",
+            "url": [
+                "http://1.214.67.100/vod/77801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
+            "name": "Xtvn",
+            "logo": "xtvn.png",
+            "url": [
+                "http://1.214.67.100/vod/67101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
+            "name": "OGN",
+            "logo": "ogn.png",
+            "url": [
+                "http://1.214.67.28/vod/68102.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
             ]
         },
         {
