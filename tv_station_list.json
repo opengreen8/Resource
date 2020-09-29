@@ -258,14 +258,22 @@
             "name": "브레인TV",
             "logo": "brantv.png",
             "url": [
-                "http://211.170.95.16/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+                "http://211.170.95.20/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI",
+                "http://211.170.95.18/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
             ]
         },
         {
-            "name": "바둑",
+            "name": "바둑TV",
             "logo": "kbaduk.png",
             "url": [
                 "http://1.214.67.24/vod/68301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
+            "name": "Prive HD",
+            "logo": "prive.png",
+            "url": [
+                "https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8"
             ]
         },
         {
