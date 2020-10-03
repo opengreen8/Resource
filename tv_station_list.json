@@ -230,6 +230,13 @@
             ]
         },
         {
+            "name": "Inet",
+            "logo": "inet.png",
+            "url": [
+                "http://live.yingtaotvapp.com/inte/index.m3u8"
+            ]
+        },
+        {
             "name": "ON Style",
             "logo": "onstyle.png",
             "url": [
@@ -258,6 +265,13 @@
             ]
         },
         {
+            "name": "토마토TV",
+            "logo": "tomato.png",
+            "url": [
+                "http://1.214.67.17/vod/77102.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
             "name": "애니플러스",
             "logo": "aniplus.png",
             "url": [
@@ -269,6 +283,20 @@
             "logo": "animax.png",
             "url": [
                 "http://1.214.67.24/vod/70302.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
+            "name": "브라보 키즈",
+            "logo": "bravokids.png",
+            "url": [
+                "http://1.214.67.24/vod/72801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
+            "name": "어린이 TV",
+            "logo": "kidstv.png",
+            "url": [
+                "http://1.214.67.34/vod/76101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
             ]
         },
         {
@@ -291,6 +319,34 @@
             "logo": "kbaduk.png",
             "url": [
                 "http://1.214.67.24/vod/68301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
+            "name": "Billiards TV",
+            "logo": "billiards.png",
+            "url": [
+                "http://1.214.67.100/vod/66801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
+            "name": "아리랑TV",
+            "logo": "arirangtv.png",
+            "url": [
+                "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+            ]
+        },
+        {
+            "name": "중화TV",
+            "logo": "zhonghuatv.png",
+            "url": [
+                "http://1.214.67.100/vod/72502.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
+            ]
+        },
+        {
+            "name": "가요TV",
+            "logo": "gayotv.png",
+            "url": [
+                "http://1.214.67.22/vod/79401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI"
             ]
         },
         {
