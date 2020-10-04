@@ -130,7 +130,9 @@
             "name": "프리미어 리그",
             "logo": "premier.png",
             "url": [
-                "http://live02.scjlwood.com/live/streamhd4048.m3u8"           
+                "http://live02.scjlwood.com/live/streamhd4048.m3u8",
+                "http://live02.scjlwood.com/live/streamcnhd4048.m3u8",
+                "http://live01.scjlwood.com/live/Nowyingchao1tai.m3u8"
             ]
         },
         {
