@@ -127,6 +127,13 @@
             ]
         },
         {
+            "name": "프리미어 리그",
+            "logo": "premier.png",
+            "url": [
+                "http://live02.scjlwood.com/live/streamhd4048.m3u8"           
+            ]
+        },
+        {
             "name": "프리미엄",
             "logo": "premium.png",
             "url": [
