@@ -127,8 +127,8 @@
             ]
         },
         {
-            "name": "프리미어리그(경기있을시)",
-            "logo": "premier.png",
+            "name": "Fox Sports",
+            "logo": "fox.png",
             "url": [
                 "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8"
             ]
