@@ -127,11 +127,10 @@
             ]
         },
         {
-            "name": "프리미어 리그",
+            "name": "프리미어리그(경기있을시)",
             "logo": "premier.png",
             "url": [
-                "http://live02.scjlwood.com/live/streamhd3992.m3u8",
-                "http://live01.scjlwood.com/live/Nowyingchao1tai.m3u8"
+                "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8"
             ]
         },
         {
