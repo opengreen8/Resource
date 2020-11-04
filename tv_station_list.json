@@ -14,7 +14,7 @@
 
 
 
-$json_string = '{
+{
     "stations": [
         {
             "name": "KBS1",
@@ -483,9 +483,7 @@ $json_string = '{
             ]
         }
     ]
-}';
-
-echo trim($json_string);
+}
 
 
    function get_my_kbs_contents($url) { 
