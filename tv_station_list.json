@@ -4,16 +4,14 @@
             "name": "KBS1",
             "logo": "kbs.png",
             "url": [
-                "http://live.yingtaotvapp.com/KBS1/index.m3u8",
-                "http://1tv.gscdn.kbs.co.kr/1tv-m/1tv-m_hd.m3u8?Expires=1601217972&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LW0vMXR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMTIxNzk3Mn19fV19&Signature=Qr1a8djp7roKeglud4olijEQJK7MsETeT~W3ruivciIeA~Cp5g~D03cW7TWiJd7uQLo60wb~kfpoIugiRKHtiN1zvsUiztlR8lcMzb1bafaZN00LhZtPxbU1Fw3FndY8PMDqruaYCnaYSaK6DULMTIK970r1j07qaWkMjnFDgb2uhAey1KhERwh7bL86dp8xK7kRDzybjIUTz-Enxd0k0XQ65NUTasO5~npE-DKSgTAVdWRYOx8n-xF2t3klnTq9dr-QKDjup12BW-ZVWK5e92L01ttashZyJVV0mq5BGXzwP3o-X8l5WIkaNX~bNnU77Evh~Db5mhUZQXrNq6IpbA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+                "http://121.136.223.243:9981/stream/channelid/1344561804"
             ]
         },
         {
             "name": "KBS2",
             "logo": "kbs2.png",
             "url": [
-                "http://live.yingtaotvapp.com/KBS2/index.m3u8",
-                "http://2tv.gscdn.kbs.co.kr/2tv-m/2tv-m_hd.m3u8?Expires=1601218861&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzJ0di5nc2Nkbi5rYnMuY28ua3IvMnR2LW0vMnR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMTIxODg2MX19fV19&Signature=jdWNax4vMF8U26hOmqW~boBPgkv4nZ9x3NCRT-YVdUv3i1XawydHUbPnPjhpeD3ZSkuLs~n6cf30DMkvMzkG6OfvJt7nCY0pafEwmWANYH9Xc6Zfp5r5vEL7SVQJYPdCklfHPjloigeRCZlFwojwg7OOKl1G5a7zg~JnCLJBzO3dth0ib6awO7-F96ntDcK9WqnX3-mGWSZlX6PLkUYyfxyXqumeRrtX4UCPXqWqWO97pw-dZ8gGseR8OOF6TD8Ubqwr8UBrdG9UkAwIZkvksdz6J3ZXKHIgKvhC1FBWBHh04mCKshTpKt-Aop--wjNv8UOkl5ab77pT4frhDcMCQg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+                "http://live.yingtaotvapp.com/KBS2/index.m3u8"
             ]
         },
         {
