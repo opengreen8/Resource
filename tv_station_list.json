@@ -1,10 +1,55 @@
+<?
+
+   header ('Content-Type: text/html; charset=UTF-8');
+
+   $KBS1 = 'http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=11&ch_type=globalList'; 
+   $KBS2 = 'http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=12&ch_type=globalList';
+   $KBS24 = 'http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=81&ch_type=globalList'; 
+   $KBSDrama = 'http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=N91&ch_type=globalList'; 
+   $KBSJoy = 'http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=N92&ch_type=globalList'; 
+   $KBSW = 'http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=N94&ch_type=globalList'; 
+   $KBSLife = 'http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=N93&ch_type=globalList'; 
+   $KBSWorld = 'http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=14&ch_type=globalList'; 
+   $KBSKids = 'http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=N96&ch_type=globalList';
+
+
+   function get_my_kbs_contents($url) { 
+      $data = file_get_contents_curl($url);
+      $str = splits($data, 'var channel = JSON.parse', '\",\"nid');
+      $end = substr($str, 93);
+      return $end; 
+   }
+
+
+	
+   function file_get_contents_curl($url) { 
+      $ch = curl_init();
+      curl_setopt($ch, CURLOPT_HEADER, 0);
+      curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+      curl_setopt($ch, CURLOPT_URL, $url);
+      $data = curl_exec($ch); 
+      curl_close($ch);
+      return $data; 
+   }
+
+
+
+   function splits($data, $first, $end, $num = 1)
+   {
+      $temp = @explode($first, $data);
+      $temp = @explode($end, $temp[$num]);
+      $temp = $temp[0];
+      return $temp;
+   }
+
+
 {
     "stations": [
         {
             "name": "KBS1",
             "logo": "kbs.png",
             "url": [
-                "http://121.136.223.243:9981/stream/channelid/1344561804"
+                "'.get_my_kbs_contents($KBS1).'"
             ]
         },
         {
@@ -468,3 +513,5 @@
         }
     ]
 }
+
+?>
