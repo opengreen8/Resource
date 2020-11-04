@@ -1,26 +1,10 @@
-<?
-
-   header ('Content-Type: text/html; charset=UTF-8');
-
-   $KBS1 = 'http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=11&ch_type=globalList'; 
-   $KBS2 = 'http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=12&ch_type=globalList';
-   $KBS24 = 'http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=81&ch_type=globalList'; 
-   $KBSDrama = 'http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=N91&ch_type=globalList'; 
-   $KBSJoy = 'http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=N92&ch_type=globalList'; 
-   $KBSW = 'http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=N94&ch_type=globalList'; 
-   $KBSLife = 'http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=N93&ch_type=globalList'; 
-   $KBSWorld = 'http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=14&ch_type=globalList'; 
-   $KBSKids = 'http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=N96&ch_type=globalList';
-
-
-
 {
     "stations": [
         {
             "name": "KBS1",
             "logo": "kbs.png",
             "url": [
-                "'.get_my_kbs_contents($KBS1).'"
+                "http://1tv.gscdn.kbs.co.kr/1tv-b/1tv-b_hd.m3u8?Expires=1604666109&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LWIvMXR2LWJfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwNDY2NjEwOX19fV19&Signature=WZD47esYoyvvpTWZAALL7TMgcsv-K7CJOaysQtoUALhA7FtGXD38HDrYTCfjVBO5cW0aPdjyJTwsjVal14L6AVgORvo0Z3qe2FL-oq7n19cqi6TEaIF5H8Qt28jy9FtCsq9OpYHNcOsMeormMDy~HXUFxglUbGU7ROinM6tpsaMq7MYsaQzwQUqOI4~KMkHUmUWkMmj9TywUvxELwkADZsoHWc~PEdpoKWj~YX89gu9g1TLJOABZZmOc74DQP1UlcErecchiiNSidZ6RAPSeglD~-xNKkUEQzr-3bOC-334iFNq6ulYcjmHoqaGR15~-MCQi9w~0abnVJ5mWIZYHWA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
             ]
         },
         {
@@ -484,35 +468,3 @@
         }
     ]
 }
-
-
-   function get_my_kbs_contents($url) { 
-      $data = file_get_contents_curl($url);
-      $str = splits($data, 'var channel = JSON.parse', '\",\"nid');
-      $end = substr($str, 93);
-      return $end; 
-   }
-
-
-	
-   function file_get_contents_curl($url) { 
-      $ch = curl_init();
-      curl_setopt($ch, CURLOPT_HEADER, 0);
-      curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-      curl_setopt($ch, CURLOPT_URL, $url);
-      $data = curl_exec($ch); 
-      curl_close($ch);
-      return $data; 
-   }
-
-
-
-   function splits($data, $first, $end, $num = 1)
-   {
-      $temp = @explode($first, $data);
-      $temp = @explode($end, $temp[$num]);
-      $temp = $temp[0];
-      return $temp;
-   }
-
-?>
