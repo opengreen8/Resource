@@ -13,37 +13,8 @@
    $KBSKids = 'http://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=N96&ch_type=globalList';
 
 
-   function get_my_kbs_contents($url) { 
-      $data = file_get_contents_curl($url);
-      $str = splits($data, 'var channel = JSON.parse', '\",\"nid');
-      $end = substr($str, 93);
-      return $end; 
-   }
 
-
-	
-   function file_get_contents_curl($url) { 
-      $ch = curl_init();
-      curl_setopt($ch, CURLOPT_HEADER, 0);
-      curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-      curl_setopt($ch, CURLOPT_URL, $url);
-      $data = curl_exec($ch); 
-      curl_close($ch);
-      return $data; 
-   }
-
-
-
-   function splits($data, $first, $end, $num = 1)
-   {
-      $temp = @explode($first, $data);
-      $temp = @explode($end, $temp[$num]);
-      $temp = $temp[0];
-      return $temp;
-   }
-
-
-{
+$json_string = '{
     "stations": [
         {
             "name": "KBS1",
@@ -512,6 +483,38 @@
             ]
         }
     ]
-}
+}';
+
+echo trim($json_string);
+
+
+   function get_my_kbs_contents($url) { 
+      $data = file_get_contents_curl($url);
+      $str = splits($data, 'var channel = JSON.parse', '\",\"nid');
+      $end = substr($str, 93);
+      return $end; 
+   }
+
+
+	
+   function file_get_contents_curl($url) { 
+      $ch = curl_init();
+      curl_setopt($ch, CURLOPT_HEADER, 0);
+      curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+      curl_setopt($ch, CURLOPT_URL, $url);
+      $data = curl_exec($ch); 
+      curl_close($ch);
+      return $data; 
+   }
+
+
+
+   function splits($data, $first, $end, $num = 1)
+   {
+      $temp = @explode($first, $data);
+      $temp = @explode($end, $temp[$num]);
+      $temp = $temp[0];
+      return $temp;
+   }
 
 ?>
