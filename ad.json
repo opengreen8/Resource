@@ -1,6 +1,6 @@
 {
-    "versionCode": 1,
-    "versionName": "1.0",
+    "versionCode": 7,
+    "versionName": "1.6",
     "changelog": ["인기뉴스를 한눈에 볼수 있는 앱이 출시되였습니다.", "하루동안 사람들이 가장 많이 주목한 뉴스를 쉽게 확인해보세요."],
     "downloadUrl": "https://play.google.com/store/apps/details?id=com.korea.hotnews"
 }
