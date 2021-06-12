@@ -1,7 +1,7 @@
 {
-    "versionCode": 6,
+    "versionCode": 16,
     "versionName": "1.8",
-    "changelog": ["실시간TV, 새로운 앱을 설치해 주세요!", "앱 이름: 리텔위"],
+    "changelog": ["빠른티비 새버전 설치하기!"],
     "downloadUrl": "https://play.google.com/store/apps/details?id=com.single101.lteve",
     "imageUrl": "https://k.kakaocdn.net/dn/b8vprf/btq6zzciFMx/LJkKps7qnrvF1VmWTitKo0/img.png"
 }
